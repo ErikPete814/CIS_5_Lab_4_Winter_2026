@@ -23,8 +23,11 @@ In main():
 
 Key Questions to Answer in Comments / Video:
 - What stays unchanged when using pass by value?
+  The original value stays unchanged because only a copy of the value is used in the function.
 - How does pass by reference change the original array?
+  pass by refrence or by pointer in the case of an array sends the original array to the function allowing the function to edit the contents of the original array.
 - Why use const with pointers/references when reading only?
+  So when looking back at your own code or when someone else is looking t your code they know that function is not supposed to change any original values only output new ones without actually having to understand what it is doing. Also to prevent errors if you accidentaly have something that isn't just reading the array
 
 Deliverable:
 - main.cpp
