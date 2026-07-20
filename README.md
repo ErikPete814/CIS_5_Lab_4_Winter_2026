@@ -47,7 +47,7 @@ This lab demonstrates different C++ parameter passing methods by managing five s
 - Demonstrates the use of `const` with arrays and pointers
 
 ### Code Demonstration Video
-YouTube Link: 
+YouTube Link: https://youtu.be/3yBlGpgFgVo
 
 ### Author
 Erik Petersen
